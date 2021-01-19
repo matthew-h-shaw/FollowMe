@@ -1,0 +1,6 @@
+﻿  FollowMe.cpp
+c:\users\matthew\onedrive - sheffield hallam university\year 1\modules\fundementals of programming for computer science\assessment\followme\followme\followme.cpp(71): warning C4018: '<': signed/unsigned mismatch
+c:\users\matthew\onedrive - sheffield hallam university\year 1\modules\fundementals of programming for computer science\assessment\followme\followme\followme.cpp(72): warning C4018: '<': signed/unsigned mismatch
+c:\users\matthew\onedrive - sheffield hallam university\year 1\modules\fundementals of programming for computer science\assessment\followme\followme\followme.cpp(87): warning C4018: '<': signed/unsigned mismatch
+c:\users\matthew\onedrive - sheffield hallam university\year 1\modules\fundementals of programming for computer science\assessment\followme\followme\followme.cpp(89): warning C4018: '<': signed/unsigned mismatch
+  FollowMe.vcxproj -> C:\Users\Matthew\OneDrive - Sheffield Hallam University\Year 1\Modules\FUNDEMENTALS OF PROGRAMMING FOR COMPUTER SCIENCE\Assessment\FollowMe\Debug\FollowMe.exe
